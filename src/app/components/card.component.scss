@@ -1,0 +1,11 @@
+.card {
+  max-width: 400px;
+
+  &__content {
+    padding-top: 15px;
+  }
+  &__checkbox {
+    display: block;
+    margin-bottom: 15px;
+  }
+}
